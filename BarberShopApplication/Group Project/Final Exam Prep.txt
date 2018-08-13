@@ -1,0 +1,21 @@
+Final Exam Prep
+Comprehensive
+
+Covers Database
+Understand and explain constructors(where they are etc)
+Method overloading
+Review Looping Statements(convert one looping way to another)
+import statements
+inheritance
+ActionListeners
+Arrays
+What an Exception is, examples, how to handle exceptions in java
+What is i++, i-- 
+i++ vs ++i
+public/private methods/variables/classes
+debugging a segment of code
+questions about JDBC
+	take a real close look at project 5 and 6
+	What a JDBC line of code is doing
+	Write a JDBC line of code
+Create a UML Diagram

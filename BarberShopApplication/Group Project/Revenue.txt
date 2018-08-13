@@ -1,0 +1,12 @@
+				CODE BUSTERS FOUR BARBERSHOP WEEKLY REVENUE REPORT
+					Thu Dec 07 18:31:39 EST 2017
+ 
+				DAY	TIME	SERVICE	PRICE
+			----------------------------------------------------------
+				Mo	 9 pm	 Cut & Wash  $ 15
+				Th	 7 pm	 Cut  $ 10
+				Mo	 9 pm	 Cut & Wash  $ 15
+				Fri	 6 pm	 Cut & Wash  $ 15
+ 
+					   ---------------------------------
+					  Total Weekly Revenue: $ 55

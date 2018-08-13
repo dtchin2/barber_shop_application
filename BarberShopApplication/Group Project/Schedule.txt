@@ -1,0 +1,9 @@
+				CODE BUSTERS FOUR BARBERSHOP SCHEDULE
+					Thu Dec 07 18:31:38 EST 2017
+ 
+PHONE NUMBER	| 	NAME | 			DAY | 	TIME | 	SERVICE | 	PRICE
+----------------------------------------------------------------------------
+5468892213	|	Rodger Umbrella	|	Mo|	9 pm|	Cut & Wash|	 $ 15
+8763322231	|	Dan Real	|	Th|	7 pm|	Cut|	 $ 10
+8763322238	|	Paul Newman	|	Mo|	9 pm|	Cut & Wash|	 $ 15
+32232112332	|	Dean Simmons	|	Fri|	6 pm|	Cut & Wash|	 $ 15
